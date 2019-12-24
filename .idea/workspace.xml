@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcf5b2e2-bd84-45f2-a58e-9d959324f7c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1VEqXquDVTTzFfhUGshStUB7sh5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter6" />
+      <recent name="$PROJECT_DIR$/chapter5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hello_world" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="master_ruby_web_apis" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/chapter_01" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="true" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="RVM: ruby-2.5.0 [masterApi]" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/chapter_01/hello_world.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcf5b2e2-bd84-45f2-a58e-9d959324f7c7" name="Default Changelist" comment="" />
+      <created>1576828645357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576828645357</updated>
+      <workItem from="1576828653809" duration="3209000" />
+      <workItem from="1577088670316" duration="5537000" />
+      <workItem from="1577207885359" duration="5063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576831662136">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1320.741@46.27.1320.741" timestamp="1576831662136" />
+    <state width="1274" height="111" key="GridCell.Tab.0.bottom" timestamp="1576914428874">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1274" height="111" key="GridCell.Tab.0.bottom/46.27.1320.741@46.27.1320.741" timestamp="1576914428874" />
+    <state width="1274" height="111" key="GridCell.Tab.0.center" timestamp="1576914428873">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1274" height="111" key="GridCell.Tab.0.center/46.27.1320.741@46.27.1320.741" timestamp="1576914428873" />
+    <state width="1274" height="111" key="GridCell.Tab.0.left" timestamp="1576914428873">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1274" height="111" key="GridCell.Tab.0.left/46.27.1320.741@46.27.1320.741" timestamp="1576914428873" />
+    <state width="1274" height="111" key="GridCell.Tab.0.right" timestamp="1576914428873">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1274" height="111" key="GridCell.Tab.0.right/46.27.1320.741@46.27.1320.741" timestamp="1576914428873" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/master_ruby_web_apis@hello_world.rcov" NAME="hello_world Coverage Results" MODIFIED="1576828723043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_01" MODULE_NAME="master_ruby_web_apis" />
+  </component>
+</project>
