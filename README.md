@@ -1,6 +1,6 @@
 ### simple Api use Sinatra
 
-focused on the basics required to build great web APIs.
+~~~~focused on the basics required to build great web APIs.
  We’ve seen various ways to implement specific features 
  and learned how web technologies were defined in RFCs which 
  contain more than one would expect.

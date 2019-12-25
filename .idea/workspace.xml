@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcf5b2e2-bd84-45f2-a58e-9d959324f7c7" name="Default Changelist" comment="" />
+    <list default="true" id="fcf5b2e2-bd84-45f2-a58e-9d959324f7c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/talaatmagdy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/talaatmagdy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/webapi.rb" beforeDir="false" afterPath="$PROJECT_DIR$/step5/webapi.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/webapi.rb" beforeDir="false" afterPath="$PROJECT_DIR$/step6/webapi.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_01/hello_world.rb" beforeDir="false" afterPath="$PROJECT_DIR$/setp3/hello_world.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +29,11 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VEqXquDVTTzFfhUGshStUB7sh5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +42,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/step_07" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +54,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/step_07" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/chapter6" />
       <recent name="$PROJECT_DIR$/chapter5" />
     </key>
@@ -49,7 +64,7 @@
     <configuration name="hello_world" type="RubyRunConfigurationType" factoryName="Ruby">
       <module name="master_ruby_web_apis" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/chapter_01" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/setp3" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="true" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="RVM: ruby-2.5.0 [masterApi]" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -60,7 +75,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/chapter_01/hello_world.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/setp3/hello_world.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -90,7 +105,8 @@
       <updated>1576828645357</updated>
       <workItem from="1576828653809" duration="3209000" />
       <workItem from="1577088670316" duration="5537000" />
-      <workItem from="1577207885359" duration="5063000" />
+      <workItem from="1577207885359" duration="8752000" />
+      <workItem from="1577278211599" duration="4745000" />
     </task>
     <servers />
   </component>
